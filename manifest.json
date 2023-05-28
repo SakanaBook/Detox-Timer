@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Detox timer",
     "version": "1.0.0",
-    "description": "ネットサーフィンで失われる時間を取り戻しましょう。Instagram、Youtubeなどついつい長時間見てしまうサイトを開くとタイマーが開始され、設定した時間がすぎるとお知らせします。",
+    "description": "Let's reclaim lost time spent on internet surfing. When you open websites like Instagram, YouTube, or any other sites that tend to consume a lot of your time, a timer will start, and when the set time is over, it will prompt you to take a break.",
     "icons": {
     "16": "icon16.png",
     "32": "icon32.png",
