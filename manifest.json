@@ -11,7 +11,7 @@
   },
     "author": "Kuluto",
     "action": {
-      "default_icon": "icon16.svg",
+      "default_icon": "icon32.png",
       "default_popup": "popup.html"
     }
   }
