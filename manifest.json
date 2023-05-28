@@ -4,10 +4,11 @@
     "version": "1.0.0",
     "description": "ネットサーフィンで失われる時間を取り戻しましょう。Instagram、Youtubeなどついつい長時間見てしまうサイトを開くとタイマーが開始され、設定した時間がすぎるとお知らせします。",
     "icons": {
-      "16": "icon16.svg",
-      "48": "icon48svg",
-      "128": "icon128.svg"
-    },
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
     "author": "Kuluto",
     "action": {
       "default_icon": "icon16.svg",
